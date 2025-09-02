@@ -41,13 +41,7 @@ Share your certificate NFT link for instant verification.
 2️⃣ For Employers & Institutions:
 Enter the certificate ID or wallet address of the student.
 Instantly verify the authenticity of their credentials.
-
-Pending Tasks 🛠️  
-🔸 Frontend Integration – Connect the smart contract with a user-friendly React.js interface.  
-🔸 IPFS Storage Implementation – Ensure certificate metadata is uploaded and retrieved correctly from IPFS.  
-🔸 Polygon Deployment – Extend support to the Polygon network for lower gas fees and scalability.  
-🔸 Testing & Debugging – Conduct thorough testing to identify and fix any remaining bugs.  
-🔸 UI/UX Enhancements – Improve the front-end experience for students, institutions, and employers.  
+ 
 
 Future Enhancements 🚀  
 🔹 Mainnet Deployment – Move to **Ethereum or Polygon mainnet** for real-world use.  
